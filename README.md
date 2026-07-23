@@ -1,6 +1,7 @@
-This is a markdown File 
-Here is my LinkedIn: 
-[Visit LinkedIn] (https://www.linkedin.com/in/harsh-choudhary-b87837311/ "LinkedIn Profile")
+This is a markdown File \n
+Here is my LinkedIn: \n
+[Visit LinkedIn](https://www.linkedin.com/in/harsh-choudhary-b87837311/ "LinkedIn Profile")\n
+
 Here we document what have we been doing in our repository
 
 
