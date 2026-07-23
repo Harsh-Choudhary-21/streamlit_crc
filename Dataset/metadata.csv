@@ -1,0 +1,10 @@
+organisation,Ministry of Finance
+sectors,"Finance"
+updated_frequency,Yearly
+granularity,"Fiscal Year"
+time_saved,6 hours
+source,"Union Budget"
+source_link,"https://www.indiabudget.gov.in/previous_union_budget.php"
+time_period,"1947-48 to 2026-27"
+units,"total_expenditure in rupees crore"
+citation,"Ministry of Finance. Total Expenditure estimated under each Indian Union Budget since 1947-48 [Data set]. Dataful. https://dataful.in/datasets/20200/20200"
