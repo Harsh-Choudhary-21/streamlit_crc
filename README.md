@@ -1,6 +1,6 @@
 This is a markdown File 
 Here is my LinkedIn: 
-# https://www.linkedin.com/in/harsh-choudhary-b87837311/ 
+# [Visit LinkedIn] (https://www.linkedin.com/in/harsh-choudhary-b87837311/) 
 Here we document what have we been doing in our repository
 
 
