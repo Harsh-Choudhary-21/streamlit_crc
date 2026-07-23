@@ -1,9 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+
+#nOBOdY aSkEd FoR ThIS cODe
 st.header("Indian govt expenditure")
 dataset = pd.read_csv(r"D:\Harsh\Streamlit_CRC\Dataset\total-expenditure-estimated-under-each-indian-union-budget-since-1947-48.csv")
-dataset = dataset.drop(columns="note")
 st.write(dataset)
 st.write("Metadata")
 metadata = pd.read_csv(r"D:\Harsh\Streamlit_CRC\Dataset\metadata.csv")
@@ -28,6 +29,9 @@ z = pd.DataFrame([
 ])
 
 st.write(x)
+st.text(y)
+st.text(z)
+st.markdown(":rainbow[#kissingthehomiesgoodnightisnotgay]")
 st.text("Example of text")
 st.header("Example of write is given below")
 st.write(
@@ -37,3 +41,4 @@ st.write(
         "City":["Delhi"]
     }
 )
+
